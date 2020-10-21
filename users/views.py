@@ -24,4 +24,4 @@ def registration(request):
 # User Profile View
 def profile(request):
     return render(request, 'users/profile.html')
-
+    
